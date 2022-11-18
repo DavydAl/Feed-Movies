@@ -1,0 +1,7 @@
+{
+  "name": "Feed-Movies",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
